@@ -53,9 +53,9 @@ c. Automation Testing:
             modul B feature C dan D
             modul E feature F
 
-3. Ibnu Afdhal
-      a. Test Cases: modul Time – Recruitment
-      b. Manual Testing: modul Time – Recruitment
+3. Ibnu Afdhal <br>
+      a. Test Cases: modul Time – Recruitment <br>
+      b. Manual Testing: modul Time – Recruitment <br>
       c. Automation Testing: -
 
 4. Muhammad Farras Naufal
