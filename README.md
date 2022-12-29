@@ -57,9 +57,6 @@ c. Automation Testing:
 a. Test Cases: modul Time – Recruitment
 b. Manual Testing: modul Time – Recruitment
 c. Automation Testing: -
-      a. Test Cases: modul Time – Recruitment
-      b. Manual Testing: modul Time – Recruitment
-      c. Automation Testing: -
 
 4. Muhammad Farras Naufal
 a. Test Cases: modul Info – Performance
